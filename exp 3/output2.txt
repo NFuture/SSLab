@@ -1,0 +1,119 @@
+
+
+Selected Technique : Two Level
+
+
+
+New Directory Main Directory Created
+	location	: Root
+	type		: Directory
+	size		: 1.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:36:48 2020
+	permissions	: R/W/X
+
+
+
+Changed Directory to Main Directory
+
+
+
+New File Hello.txt Created
+	location	: Main Directory
+	type		: File
+	size		: 10.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:37:33 2020
+	permissions	: R/W/X
+
+
+
+New File Haha.img Created
+	location	: Main Directory
+	type		: File
+	size		: 10.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:37:55 2020
+	permissions	: R/W/X
+
+
+
+Changed Directory to ROOT
+
+
+
+New Directory Secondary Created
+	location	: Root
+	type		: Directory
+	size		: 1.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:38:29 2020
+	permissions	: R/W/X
+
+
+
+Changed Directory to Secondary
+
+
+
+New File Haha.img Created
+	location	: Secondary
+	type		: File
+	size		: 10.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:38:55 2020
+	permissions	: R
+
+
+
+Changed Directory to ROOT
+
+
+
+Changed Directory to Main Directory
+
+
+
+Deleted file Hello.txt
+	location	: Main Directory
+	type		: File
+	size		: 10.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:37:33 2020
+	permissions	: R/W/X
+
+
+Changed Directory to ROOT
+
+
+
+Changed Directory to Secondary
+
+
+
+New File Hello.txt Created
+	location	: Secondary
+	type		: File
+	size		: 21.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:41:49 2020
+	permissions	: R/W/X
+
+
+
+File with name Haha.img already exists
+
+
+Searching for Haha.img
+ 1-	location	: Root/Main Directory
+	type		: File
+	size		: 10.000000 KB
+	created		: Sat Sep  5 16:37:55 2020
+	permissions	: R/W/X
+2-	location	: Root/Secondary
+	type		: File
+	size		: 10.000000 KB
+	created		: Sat Sep  5 16:38:55 2020
+	permissions	: R
+Total occurences : 2
+

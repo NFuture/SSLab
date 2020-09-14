@@ -1,0 +1,42 @@
+Arrival Time		Burst Time		Priority
+0				3				5
+1				33				3
+1				4				2
+6				5				4
+9				23				6
+9				4				1
+FCFS
+Turn Arount Time	Waiting Time
+3			0
+35			2
+39			35
+39			34
+59			36
+63			59
+
+SJF
+Turn Arount Time	Waiting Time
+3			0
+71			38
+6			2
+6			1
+30			7
+7			3
+
+Priroty 
+Turn Arount Time	Waiting Time
+3			0
+39			6
+6			2
+43			38
+63			40
+35			31
+
+Round Robin
+Turn Arount Time	Waiting Time
+3			0
+71			38
+21			17
+18			13
+54			31
+19			15

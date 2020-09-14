@@ -1,0 +1,64 @@
+
+
+Selected Technique : Single Level
+
+
+
+New Directory Root Directory Created
+	location	: Root
+	type		: Directory
+	size		: 1.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:30:44 2020
+	permissions	: R/W/X
+
+
+
+Changed Directory to Root Directory
+
+
+
+New File ABC Created
+	location	: Root Directory
+	type		: File
+	size		: 10.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:31:05 2020
+	permissions	: R/W
+
+
+
+New File TEST Created
+	location	: Root Directory
+	type		: File
+	size		: 10.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:31:18 2020
+	permissions	: R
+
+
+
+file/document NOTES not found
+
+
+
+File with name TEST already exists
+
+
+Searching for ABC
+ 1-	location	: Root/Root Directory
+	type		: File
+	size		: 10.000000 KB
+	created		: Sat Sep  5 16:31:05 2020
+	permissions	: R/W
+Total occurences : 1
+
+
+
+Deleted file ABC
+	location	: Root Directory
+	type		: File
+	size		: 10.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:31:05 2020
+	permissions	: R/W

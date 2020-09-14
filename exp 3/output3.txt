@@ -1,0 +1,116 @@
+
+
+Selected Technique : Hierarchical
+
+
+
+New Directory Main Directory Created
+	location	: Root
+	type		: Directory
+	size		: 1.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:54:07 2020
+	permissions	: R/W/X
+
+
+
+Changed Directory to Main Directory
+
+
+
+New Directory ABC Created
+	location	: Main Directory
+	type		: Directory
+	size		: 1.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:54:26 2020
+	permissions	: RWX
+
+
+
+New File Hello.txt Created
+	location	: Main Directory
+	type		: File
+	size		: 20.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:55:00 2020
+	permissions	: RWX
+
+
+
+Changed Directory to ROOT
+
+
+
+New Directory Secondary Created
+	location	: Root
+	type		: Directory
+	size		: 1.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:55:15 2020
+	permissions	: R/W/X
+
+
+
+Changed Directory to Secondary
+
+
+
+New File ABC Created
+	location	: Secondary
+	type		: File
+	size		: 15.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:55:49 2020
+	permissions	: R/W/X
+
+
+
+Changed Directory to ROOT
+
+
+
+Changed Directory to Main Directory
+
+
+
+Changed Directory to ABC
+
+
+
+New File CDE Created
+	location	: ABC
+	type		: File
+	size		: 10.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:56:36 2020
+	permissions	: R
+
+
+
+Changed Directory to Main Directory
+
+
+
+Deleted file Hello.txt
+	location	: Main Directory
+	type		: File
+	size		: 20.000000 KB
+	count		: 1
+	created		: Sat Sep  5 16:55:00 2020
+	permissions	: RWX
+
+
+Searching for ABC
+ 1-	location	: Root/Main Directory
+	type		: Directory
+	size		: 11.000000 KB
+	created		: Sat Sep  5 16:54:26 2020
+	permissions	: RWX
+2-	location	: Root/Secondary
+	type		: File
+	size		: 15.000000 KB
+	created		: Sat Sep  5 16:55:49 2020
+	permissions	: R/W/X
+Total occurences : 2
+
